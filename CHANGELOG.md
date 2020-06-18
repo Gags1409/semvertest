@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/Gags1409/versiontest/compare/v1.0.0...v1.1.0) (2020-06-18)
+
+
+### Features
+
+* squashed commits ([b97ab80](https://github.com/Gags1409/versiontest/commit/b97ab800b7d94a9ddfcb5c94fb7ca29b04ccf1d9))
+
 ### [1.0.1](https://github.com/Gags1409/versiontest/compare/v1.0.0...v1.0.1) (2020-06-15)
 
 ## [1.0.0](https://github.com/Gags1409/versiontest/compare/v0.1.0...v1.0.0) (2020-06-15)
